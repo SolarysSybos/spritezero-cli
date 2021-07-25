@@ -22,7 +22,7 @@
     "queue-async": "^1.2.1",
     "json-stable-stringify": "^1.0.1",
     "@mapbox/spritezero": "~7.0.1",
-    "mapnik": "^4.5.8",
+    "mapnik": "^4.5.8"
   },
   "devDependencies": {
     "eslint": "^4.0.0",
